@@ -11,9 +11,14 @@ You only need Git if you are planning on committing your project into a Git repo
 
 `
 >> pytest -h
+
 `
 
 You might get a warning after installing pytest "WARNING: The scripts py.test.exe and pytest.exe are installed in 'C:\User........"
 
 You will need to add the directory where paytest installed into PATH on Window 10. To do that follow the instructions on [this page](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
 
+## Setup the development environment
+
+When asked ChatGPT 
+[ChatGPT](images/chatgpt_01.PNG)
