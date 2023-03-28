@@ -206,6 +206,26 @@ In this case, we provide "hello world\n" in the assert statement, while the real
 `
 And run the test again. We should get green ticks now.
 
+We can do the test in the same file, look at week1\exercise3.py as an example of code where the testing code is in the same file as the actual code.
+
+## How to Git in VS Code
+
+To use Git inside VS Code, click on the source control icon (third):
+
+<img src="images/git_commit.PNG">
+
+A number shows how many changes need to be committed. The changes could be adding new file, updating existing file, deleting or renaming.
+
+We have the option to commit individual files or folders or commit the entire app. Each file/folder that needs to be committed has a + sign next to it. To commit everything just click on the + on top of all the files (see picture above).
+
+Clicking the + sign will just add the changes to the local repo.
+Next, type a proper comment in the message box and click "Commit" button. This will stage changes locally only.
+
+Next click "Sync Changes" to commit to the remote repo:
+
+<img src="images/git_sync.PNG">
+
+
 
 
 
