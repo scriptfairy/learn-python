@@ -26,7 +26,25 @@ def quicksort(l):
                 left.append(l[i])
 
         return quicksort(left) + [pivot] + quicksort(right)
-# l = get_random_cities(10)
-# list_sorted = quicksort(l)
+
+# ## Exercise 8: Create a function to count the vowels in each word in your list
+def count_vowels(l):
+    vowels = ['a', 'e', 'i', 'o', 'u']
+    counts = []
+    for item in l:
+        print("\n item = ", item)
+        count = 0
+        for ch in item:
+            print("\n ch = ", ch)
+            if ch.lower() in vowels:
+                print("it is in \n")
+                count += 1
+                print(" count is \n",count)
+        counts.append(count)
+    return counts
+
+
+# l = get_random_cities(3)
+# list_sorted = count_vowels(l)
 # print("before sort \n",l)
 # print("after sort \n", list_sorted)
