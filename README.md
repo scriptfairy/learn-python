@@ -206,7 +206,6 @@ In this case, we provide "hello world\n" in the assert statement, while the real
 `
 And run the test again. We should get green ticks now.
 
-We can do the test in the same file, look at week1\exercise3.py as an example of code where the testing code is in the same file as the actual code.
 
 ## How to Git in VS Code
 

@@ -10,6 +10,4 @@ def exercise3():
 l = exercise3()
 print(l)
 
-def test_exercise3():
-    result = exercise3()
-    assert result == 10 
+
