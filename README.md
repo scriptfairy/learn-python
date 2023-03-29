@@ -89,6 +89,7 @@ It is good practice when we use __Workspace__ to use VS Code to handle file oper
 The purpose of week0 code is to play with *pytest* before we do the actual excercise. 
 
 ### hello.py
+
 This module has 2 simple functions __add_numbers__ and __multiply_numbers__. In order to  
 
 To run our code inside VS Code, we need to make Python 3 as the default interpreter in VS Code. To do that I asked __chatGPT__ on how to do that, and her answer was:
