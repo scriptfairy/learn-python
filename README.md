@@ -155,7 +155,7 @@ Then it will prompt you to choose your test folder:
 
 <img src="images/test_dir.PNG">
 
-You can chooe the root or tests. In this case I chose tests folder.
+You can chooe the root or tests. In this case I chose root folder.
 
 Once you choose the dir, a little circle will appear next to the root and the test folders:
 
