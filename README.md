@@ -165,7 +165,7 @@ You can then run the tests by clicking on the run icon next to the file test_hel
 
 Once we configure the test, VS Code creates a folder called .vscode and a json file called settings.json with our testing environment configurations:
 
-<img src="images/test_json.PNG">
+<img src="images/test_json2.PNG">
 
 When clicking on Run icon to run the test, a spinner will show up to indicate the test is running:
 
